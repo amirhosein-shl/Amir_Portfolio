@@ -871,6 +871,25 @@ section {
   position: relative;
 }
 
+/* Premier League Prediction */
+.services .iconbox-red .icon img {
+  width: 150px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.services .iconbox-red h4 {
+  font-size: 18px; /* Adjust font size as needed */
+}
+
+/* Leaf Disease Classification */
+.services .iconbox-yellow .icon img {
+  width: 150px; /* Adjust width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.services .iconbox-yellow h4 {
+  font-size: 18px; /* Adjust font size as needed */
+}
 .services .icon-box .icon i {
   font-size: 36px;
   transition: 0.5s;
